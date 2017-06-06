@@ -2,7 +2,7 @@
 return array(
 	'driver' => 'pgsql',
 	'host' => '192.168.0.8',
-	'database' => 'opengame',
+	'database' => 'opengame2',
 	'username' => 'postgres',
 	'password' => 'yjkj8888',
 	'charset' => 'utf8',
